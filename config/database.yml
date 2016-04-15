@@ -1,0 +1,13 @@
+development:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password: password
+  database: web_app_development
+
+test:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password: password
+  database: web_app_test
